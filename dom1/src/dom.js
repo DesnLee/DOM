@@ -55,7 +55,7 @@ dom.attr = function (node, name, value) {  //重载
 }
 
 //改或者查文本内容
-dom.text = function (node, string) {  //适配
+dom.text = function (node, string) {   //适配
     if (arguments.length === 2){
         if (`innerText` in node){
             node.innerText = string

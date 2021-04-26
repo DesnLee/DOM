@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["jQuery","find","addClass","end"],"mappings":"AAAA;AACAA,MAAM,SAAN,CAAgBC,IAAhB,SAA6BC,QAA7B,SAA8CA,QAA9C,UAAgEC,GAAhE,GAAsED,QAAtE","file":"main.1f19ae8e.js","sourceRoot":"../src","sourcesContent":["// jQuery(`.test`)\njQuery(`.test`).find(`.red`).addClass(`blue`).addClass(`green`).end().addClass(`black`)"]}
